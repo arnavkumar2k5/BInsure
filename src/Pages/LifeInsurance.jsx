@@ -16,7 +16,7 @@ function LifeInsurance() {
   return (
     <div className="flex flex-col">
       <div
-        className="flex flex-col md:flex-row justify-center items-center m-auto md:pl-56 md:pr-52 pt-24 mb-40"
+        className="flex flex-col md:flex-row justify-center items-center m-auto md:px-56 pt-24 mb-40"
       >
         <div >
           <Info />

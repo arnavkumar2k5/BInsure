@@ -2,8 +2,8 @@ import React from "react";
 
 function Form() {
   return (
-    <div className="p-5 m-5 md:m-0 md:p-8 text-xs md:text-sm shadow-2xl rounded-3xl bg-white w-[90%] md:w-[100%] max-w-md mx-auto">
-      <form action="" className="flex flex-col gap-4">
+    <div className="p-5 m-5 md:m-0 md:p-8 text-xs md:text-sm shadow-md rounded-3xl bg-white w-[90%] md:w-[23.094rem] md:h-[30.128rem] mx-auto">
+      <form action="" className="flex flex-col gap-4 text-[#5A5555]">
         <div className="flex flex-col gap-2">
           <label htmlFor="name" className="font-semibold text-xs md:text-sm">Your name</label>
           <input
@@ -58,7 +58,7 @@ function Form() {
         <input
           type="submit"
           value="Get a Free quote"
-          className="bg-cyan-400 text-white hover:bg-cyan-500 rounded-full py-2 text-base md:text-lg cursor-pointer transition-colors"
+          className="bg-[#24BBE3] text-white font-medium hover:bg-cyan-500 rounded-full py-2 text-base md:text-lg cursor-pointer transition-colors"
         />
 
         <div className="text-start text-xs mt-3 text-gray-600">

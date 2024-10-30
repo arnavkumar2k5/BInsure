@@ -2,7 +2,7 @@ import React from "react";
 
 function Component5() {
   return (
-    <div className="flex flex-col md:flex-row p-5 items-center justify-between md:px-48 bg-white py-20 md:py-40">
+    <div className="flex flex-col md:flex-row p-5 items-center justify-between gap-28 md:px-40 bg-white py-20 md:py-40">
       <div className="md:w-[45%] space-y-4">
         <h2 className="text-2xl md:text-4xl font-bold">Why B-Insure?</h2>
         <p className="text-sm md:text-2xl font-medium">
@@ -44,7 +44,7 @@ function Component5() {
         <img
           src="/Home/img16.png"
           alt="Insurance illustration"
-          className="w-auto md:h-[75vh]"
+          className="w-auto md:h-[75vh] md:w-[60vw]"
         />
       </div>
     </div>

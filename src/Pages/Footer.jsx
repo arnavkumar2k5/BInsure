@@ -10,7 +10,7 @@ function Footer() {
   };
 
   return (
-    <footer className="bg-[#343336] text-white py-16 pt-24 p-12">
+    <footer className="bg-[#353535] text-white py-16 pt-24 p-12">
       <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between sm:justify-center gap-16 sm:gap-[35rem]">
         <div className="mb-16 sm:mb-0 sm:text-left">
           <div className="mb-6">
@@ -87,7 +87,7 @@ function Footer() {
         </div>
       </div>
       <div className="flex">
-      <div className="border-t w-full sm:w-[70%] m-auto border-gray-700 mt-12 pt-8 text-center sm:text-start text-2xl sm:text-3xl text-gray-400 font-semibold">
+      <div className="border-t w-full sm:w-[70%] m-auto border-gray-700 mt-12 pt-8 text-center sm:text-start text-base text-white">
         Copyright © 2024 Inc. All rights reserved.
       </div>
 

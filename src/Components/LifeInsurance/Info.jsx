@@ -4,7 +4,7 @@ function Info() {
   return (
     <div className="flex flex-col gap-5 text-center p-5 sm:p-5 md:p-2 md:text-start pb-20">
       <div className="flex flex-col gap-2 md:gap-5 md:p-0">
-        <div className="text-2xl text-start sm:text-2xl md:text-4xl font-medium pr-10">
+        <div className="text-2xl text-start sm:text-2xl md:text-4xl pr-10">
           A financial safety net for your {" "}
         <span className="inline md:block text-2xl sm:text-2xl md:text-4xl font-bold">
           Loved Ones

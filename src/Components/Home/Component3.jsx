@@ -24,8 +24,8 @@ function Component3() {
         <div className="self-start pl-4 md:pl-0">
           <img src="/Home/img9.png" alt="" />
         </div>
-        <div className="md:w-2/3 p-5 md:p-0 text-sm">
-          <p className="text-xl md:text-3xl font-bold mb-3">
+        <div className="md:w-2/3 p-5 md:p-0 text-sm leading-6">
+          <p className="text-xl md:text-3xl font-bold mb-3 text-black md:mb-5">
             Get insurance quotes securely online in minutes
           </p>
           <p>
@@ -41,7 +41,7 @@ function Component3() {
           </p>
           <div>
             <button
-              className="text-[1rem] bg-[#24BBE3] text-white p-3 px-5 rounded-lg font-semibold mt-10"
+              className="text-[1rem] bg-[#24BBE3] text-white p-3 px-5 rounded-lg font-semibold mt-5"
               onClick={() => {
                 handleOpenQuoteForm();
               }}

@@ -4,13 +4,13 @@ function Component2() {
   return (
     <div className="bg-white flex flex-col justify-center items-center p-5  md:px-6 pt-60 md:pt-36 gap-5 pb-20">
       <div>
-        <div className="text-center mb-2 text-xl md:text-3xl font-bold">
+        <div className="text-center mb-2 text-xl md:text-[2.1rem] font-bold">
           <p className="inline md:block text-center">
             Help build financial security <p className="block md:inline">for you and your loved ones</p>
           </p>
         </div>
 
-        <div className="mb-5 md:mb-12 mt-5 text-sm leading-6 text-center">
+        <div className="mb-5 md:mb-12 mt-10 text-sm leading-6 text-center">
           <p>
             Between balancing work, family, and your money, adulting is hard.
             Your insurance shouldn’t be. We help make insurance easier.{" "}
@@ -24,10 +24,10 @@ function Component2() {
         </div>
       </div>
 
-      <div className="flex flex-col md:flex-row justify-center gap-5 md:mt-20 md:m-5">
-        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-1/3 gap-5 border-2 border-[#E0E0E0]">
-          <p className="font-bold text-xl md:text-3xl">Zero Fees</p>
-          <p className="w-full">
+      <div className="flex flex-col md:flex-row justify-center gap-10 md:mt-5 md:m-5">
+        <div className="flex flex-col bg-white p-8 shadow-lg text-sm leading-6 rounded-lg md:w-[18.75rem] md:h-[19.5rem] gap-5 border-2 border-[#E0E0E0]">
+          <p className="font-bold text-xl md:text-4xl">Zero Fees</p>
+          <p className="w-full text-[#4D4C4C]">
             <p className="font-bold">No Hidden Charges</p>
             <p>We never add brokerage fees </p>
             <p>to your premiums.</p>
@@ -36,9 +36,9 @@ function Component2() {
             <img src="/Home/img4.png" alt="img" className="h-20" />
           </div>
         </div>
-        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-[36%] gap-5 border-2 border-[#E0E0E0]">
-          <p className="font-bold text-xl md:text-3xl">1000+</p>
-          <p className="w-full">
+        <div className="flex flex-col bg-white p-8 shadow-lg text-sm leading-6 rounded-lg md:w-[18.75rem] md:h-[19.5rem] gap-5 border-2 border-[#E0E0E0]">
+          <p className="font-bold text-xl md:text-4xl">1000+</p>
+          <p className="w-full text-[#4D4C4C]">
             <p className="font-bold">Policy Options</p>
             <p>We pick the best products for you</p>
             <p>from Canada's top insurance</p>
@@ -48,14 +48,14 @@ function Component2() {
             <img src="/Home/img5.png" alt="img" className="h-20" />
           </div>
         </div>
-        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-1/3 gap-5 border-2 border-[#E0E0E0]">
-          <p className="font-bold text-xl md:text-3xl">$0.5m</p>
-          <p>
+        <div className="flex flex-col bg-white p-8 shadow-lg text-sm leading-6 rounded-lg md:w-[18.75rem] md:h-[19.5rem] gap-5 border-2 border-[#E0E0E0]">
+          <p className="font-bold text-xl md:text-4xl">$0.5m</p>
+          <p className="text-[#4D4C4C]">
             <p className="font-bold">Coverage Placed</p>
             <p>We've helped over 3,000</p>
             <p>Canadians find financial security.</p>
           </p>
-          <div className="self-end">
+          <div className="self-end mt-7">
             <img src="/Home/img6.png" alt="img" className="h-20" />
           </div>
         </div>

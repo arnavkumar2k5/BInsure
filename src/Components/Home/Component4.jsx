@@ -15,11 +15,11 @@ function Component4() {
         </div>
       </div>
 
-      <div className="flex flex-col md:flex-row justify-center gap-5 md:m-5">
-        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-1/3 gap-5 border-2 border-[#E0E0E0]">
+      <div className="flex flex-col md:flex-row justify-center gap-10 md:m-5">
+        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-1/3 gap-5 border-[1px] border-[#BFBFBF]">
           <p className="font-semibold text-3xl">Individual</p>
           <p className="w-full">
-            <p>Insurance You can feel more confident by protecting what’s important to you.</p>
+            <p className="text-[#4D4C4C]">Insurance You can feel more confident by protecting what’s important to you.</p>
             <p className="font-semibold mt-5">Explore Solutions <p className="text-cyan-400 inline"> &gt;</p></p>
             <p className="font-semibold mt-3">View articles <p className="text-cyan-400 inline"> &gt;</p></p>
           </p>
@@ -27,10 +27,10 @@ function Component4() {
             <img src="/Home/img10.png" alt="img" className="h-24" />
           </div>
         </div>
-        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-1/3 gap-5 border-2 border-[#E0E0E0]">
+        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-1/3 gap-5 border-[1px] border-[#BFBFBF]">
           <p className="font-semibold text-3xl">Commercial</p>
           <p className="w-full">
-            <p>Insurance You can feel more confident by protecting what’s important to you.</p>
+            <p className="text-[#4D4C4C]">Insurance You can feel more confident by protecting what’s important to you.</p>
             <p className="font-semibold mt-5">Explore Solutions <p className="text-cyan-400 inline"> &gt;</p></p>
             <p className="font-semibold mt-3">View articles <p className="text-cyan-400 inline"> &gt;</p></p>
           </p>
@@ -38,10 +38,10 @@ function Component4() {
             <img src="/Home/img11.png" alt="img" className="h-20" />
           </div>
         </div>
-        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-1/3 gap-5 border-2 border-[#E0E0E0]">
+        <div className="flex flex-col bg-white p-8 shadow-lg text-sm rounded-md md:w-1/3 gap-5 border-[1px] border-[#BFBFBF]">
           <p className="font-semibold text-3xl">Travel insurance</p>
           <p className="w-full">
-            <p>Insurance You can feel more confident by protecting what’s important to you.</p>
+            <p className="text-[#4D4C4C]">Insurance You can feel more confident by protecting what’s important to you.</p>
             <p className="font-semibold mt-5">Explore Solutions <p className="text-cyan-400 inline"> &gt;</p></p>
             <p className="font-semibold mt-3">View articles <p className="text-cyan-400 inline"> &gt;</p></p>
           </p>

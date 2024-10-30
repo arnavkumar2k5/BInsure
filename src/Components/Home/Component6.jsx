@@ -115,7 +115,9 @@ function Component6() {
                 onClick={() => toggleQuestion(4)}
                 className="text-sm md:text-lg flex justify-between font-semibold text-gray-800"
               >
+                <div className="text-start">
               Wouldn't it be cheaper to buy coverage directly from an insurance provider or my bank?
+                </div>
                 <div>
                 {openQuestion === 1 ? <span>&#9650;</span> : <span>&#9660;</span> }
                 </div>

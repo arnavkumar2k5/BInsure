@@ -126,7 +126,7 @@ function Component1() {
                   <div className="w-full invisible md:visible">
                   </div>
                 </div>
-                <button className="p-3 px-10 md:mx-72 font-semibold bg-cyan-400 text-white py-3 rounded-full mt-4">
+                <button className="p-3 px-5 md:mx-72 font-semibold bg-cyan-400 text-white py-3 rounded-full mt-4">
                   GET A FREE QUOTE
                 </button>
                 <p className="text-sm text-center text-gray-500 mt-4">
